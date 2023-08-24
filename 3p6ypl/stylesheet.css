@@ -1,0 +1,101 @@
+h1 {
+  background-color: gray;
+  padding: 20px 50px;
+
+}
+
+h3 { 
+  
+  padding: 20px 50px
+  
+  }
+
+.button {
+
+padding: 20px 50px
+
+}
+
+div {
+
+   padding: 10px 10px
+}
+
+
+.card {
+margin: 20px 50px
+
+}
+
+.btn {
+
+margin: 20px 50px
+
+
+}
+
+
+body {background-color: #c9f6ff;}
+
+form {
+
+background-color: lightgray;
+padding: 20px 20px;
+margin: 20px 50px;
+
+}
+
+.form-range {
+
+  background-color: lightgray;
+padding: 20px 20px;
+margin: 20px 50px;
+
+}
+
+table {
+
+background-color: lightgray;
+padding: 20px 20px;
+margin: 20px 50px;
+
+}
+
+h6 {
+ background-color: lightgray;
+padding: 20px 20px;
+margin: 20px 50px;
+}
+
+.alert {
+
+padding: 20px 20px;
+margin: 20px 50px;
+
+}
+
+.list-group {
+padding: 20px 20px;
+margin: 20px 50px;
+
+}
+
+.breadcrumb {
+   background-color: white;
+  padding: 20px 20px;
+margin: 20px 50px;
+
+}
+
+.accordion {
+  padding: 20px 20px;
+margin: 20px 50px;
+
+}
+
+
+
+
+
+
+
